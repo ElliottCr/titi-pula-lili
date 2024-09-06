@@ -2,6 +2,8 @@
 ilu titi pula lu tuki tiki.<br>
 A font for the tuki tiki language.
 
+[Download Links](https://github.com/ElliottCr/titi-pula-lili/releases/)
+
 ![Showcase](https://github.com/user-attachments/assets/15e022b4-3106-42f4-ba9d-81dcf1243e6a)
 
 This font uses the UCSUR's [sitelen pona](https://www.kreativekorp.com/ucsur/charts/sitelen.html) and [titi pula](https://www.kreativekorp.com/ucsur/charts/titi-pula.html) encodings.
